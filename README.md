@@ -7,6 +7,6 @@
 </div>
 
 ## 📚 Post
-| Topic | Title | Date | Remarks |
-|-----------|---------------------------|--------|--------|
-Concurrency | Meet async/await in Swift | 2021.07.17 ~ | |
+| Topic | Title | Date | Link | Remarks |
+|-----------|---------------------------|--------|--------|----|
+Concurrency | Meet async/await in Swift | 2021.07.17 ~ 2021.07.24 | [Link](https://developer.apple.com/videos/play/wwdc2021/10132/) | [Link](concurrency/async-await.md) |
